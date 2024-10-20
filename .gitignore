@@ -1,2 +1,6 @@
 .gitignore
+
+*.lnk
+*.exe
+
 00_DOCS
